@@ -1,0 +1,15 @@
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\bin\Debug\net6.0\Delegarte task.exe
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\bin\Debug\net6.0\Delegarte task.deps.json
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\bin\Debug\net6.0\Delegarte task.runtimeconfig.json
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\bin\Debug\net6.0\Delegarte task.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\bin\Debug\net6.0\Delegarte task.pdb
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\Delegarte task.csproj.AssemblyReference.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\Delegarte task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\Delegarte task.AssemblyInfoInputs.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\Delegarte task.AssemblyInfo.cs
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\Delegarte task.csproj.CoreCompileInputs.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\Delegarte task.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\refint\Delegarte task.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\Delegarte task.pdb
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\Delegarte task.genruntimeconfig.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Delegarte task\Delegarte task\obj\Debug\net6.0\ref\Delegarte task.dll
